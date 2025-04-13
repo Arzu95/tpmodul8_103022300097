@@ -1,6 +1,5 @@
 using System;
 using System.Globalization;
-using System.Globalization;
 using tpmodul8_103022300097;
 
 class Program
